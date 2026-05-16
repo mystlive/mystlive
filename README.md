@@ -16,7 +16,8 @@ Software development / AI-assisted object recognition / 3D analysis
 
 ## Main areas
 
-- .NET / WPF / C++
+- .NET / WPF / C / C++ / Objective-C++ / Kotlin
+- Unity / three.js
 - Web・モバイルアプリケーション開発
 - 画像処理 / OpenCV / カメラシステム
 - 点群処理 / 3D物体解析
@@ -46,6 +47,8 @@ Software development / AI-assisted object recognition / 3D analysis
 ## Contact
 
 - GitHub: [@mystlive](https://github.com/mystlive)
+- 自社公式サイト: https://angework.co.jp
+- 西洋占星術サイト: https://angework-astrology.com/
 
 ---
 
@@ -57,7 +60,8 @@ Operating as ANGEWORK Co., Ltd., I develop desktop, web, mobile, data-processing
 
 ## Main areas
 
-- .NET / WPF / C++
+- .NET / WPF / C / C++ / Objective-C++ / Kotlin
+- Unity / three.js
 - Web and mobile application development
 - Image processing / OpenCV / Camera systems
 - Point cloud processing / 3D object analysis
@@ -87,3 +91,5 @@ Operating as ANGEWORK Co., Ltd., I develop desktop, web, mobile, data-processing
 ## Contact
 
 - GitHub: [@mystlive](https://github.com/mystlive)
+- Web: https://angework.co.jp
+- Astrology: https://angework-astrology.com/
