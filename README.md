@@ -49,6 +49,8 @@ Software development / AI-assisted object recognition / 3D analysis
 - GitHub: [@mystlive](https://github.com/mystlive)
 - 自社公式サイト: https://angework.co.jp
 - 西洋占星術サイト: https://angework-astrology.com/
+- X: https://x.com/angeworkCoLtd
+- FaceBook: https://www.facebook.com/mystlive/
 
 ---
 
@@ -93,3 +95,5 @@ Operating as ANGEWORK Co., Ltd., I develop desktop, web, mobile, data-processing
 - GitHub: [@mystlive](https://github.com/mystlive)
 - Web: https://angework.co.jp
 - Astrology: https://angework-astrology.com/
+- X: https://x.com/angeworkCoLtd
+- FaceBook: https://www.facebook.com/mystlive/
