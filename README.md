@@ -51,6 +51,7 @@ Software development / AI-assisted object recognition / 3D analysis
 - 西洋占星術サイト: https://angework-astrology.com/
 - X: https://x.com/angeworkCoLtd
 - FaceBook: https://www.facebook.com/mystlive/
+- Note 技術解説/検証: https://note.com/angework
 
 ---
 
@@ -97,3 +98,4 @@ Operating as ANGEWORK Co., Ltd., I develop desktop, web, mobile, data-processing
 - Astrology: https://angework-astrology.com/
 - X: https://x.com/angeworkCoLtd
 - FaceBook: https://www.facebook.com/mystlive/
+- Note Technical explanation/verification: https://note.com/angework
